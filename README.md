@@ -27,8 +27,8 @@ Data is divided using KFold in sklearn library.
 - 1 if Diabetic
 - 0 if Non-Diabetic
 # Result =>
-Algorithm has a bit low accuracy of nearly 78.57%.
-
+Algorithm has a bit low accuracy of nearly 78.57%. <br />
+(Do check https://github.com/balshersingh10/Diabetes-Onset-Detection-with-SVM-KNN)
 ## Files included in repository are:
 - **source.ipynb(Jupyter Notebook-https://jupyter.org/)**
 - **source.pdf(Just a pdf print of jupyter notebook)**
